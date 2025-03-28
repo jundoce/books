@@ -1,4 +1,6 @@
 # Repo Tree
+currently having issues with links 
+and opening files on mobile app
 
 - 📂 __Math__
   - 📂 __Linear Algebra__
