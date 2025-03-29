@@ -11,25 +11,25 @@
     📂 Forensics
     📂 Burp Suite
     📂 Soc Eng
-        📄 [Social Engineering The Science of Human Hacking - PDFDrive.com (Christopher Hadnagy).pdf](Security/Soc%20Eng/Social%20Engineering%20The%20Science%20of%20Human%20Hacking%20-%20PDFDrive.com%20(Christopher%20Hadnagy).pdf)
+        📄 [Social Engineering The Science of Human Hacking (Christopher Hadnagy).pdf](Security/Soc%20Eng/Social%20Engineering%20The%20Science%20of%20Human%20Hacking%20(Christopher%20Hadnagy).pdf)
 
 📂 Programming_languages
     📂 Python_lib
-        📄 [Black Hat Python Python Programming for Hackers and Pentesters, 2e (Justin Seitz Tim Arnold).pdf](Programming_languages/Python_lib/Black%20Hat%20Python%20Python%20Programming%20for%20Hackers%20and%20Pentesters%2C%202e%20(Justin%20Seitz%20Tim%20Arnold).pdf)
+        📄 [Black Hat Python Python Programming for Hackers and Pentesters, 2nd Edition (Justin Seitz Tim Arnold).pdf](Programming_languages/Python_lib/Black%20Hat%20Python%20Python%20Programming%20for%20Hackers%20and%20Pentesters%2C%202nd%20Edition%20(Justin%20Seitz%20Tim%20Arnold).pdf)
         📄 [Python for Data Analysis Data Wrangling with Pandas, NumPy, and IPython (Wes McKinney).pdf](Programming_languages/Python_lib/Python%20for%20Data%20Analysis%20Data%20Wrangling%20with%20Pandas%2C%20NumPy%2C%20and%20IPython%20(Wes%20McKinney).pdf)
     📂 Powershell
         📄 [PowerShell for Sysadmins Workflow Automation Made Easy (Adam Bertram).pdf](Programming_languages/Powershell/PowerShell%20for%20Sysadmins%20Workflow%20Automation%20Made%20Easy%20(Adam%20Bertram).pdf)
     📂 JS
         📄 [The Modern JavaScript Tutorial.url](Programming_languages/JS/The%20Modern%20JavaScript%20Tutorial.url)
     📂 SQL
-        📄 [Sams Teach Yourself SQL in 10 Minutes a Day, 5th Edition (Ben Forta [Forta, Ben]).pdf](Programming_languages/SQL/Sams%20Teach%20Yourself%20SQL%20in%2010%20Minutes%20a%20Day%2C%205th%20Edition%20(Ben%20Forta%20[Forta%2C%20Ben]).pdf)
+        📄 [Sams Teach Yourself SQL in 10 Minutes a Day, 5th Edition (Ben Forta).pdf](Programming_languages/SQL/Sams%20Teach%20Yourself%20SQL%20in%2010%20Minutes%20a%20Day%2C%205th%20Edition%20(Ben%20Forta).pdf)
     📂 Assembly
         📄 [Understanding Assembly Language (Reverse Engineering for Beginners) (Dennis Yurichev).pdf](Programming_languages/Assembly/Understanding%20Assembly%20Language%20(Reverse%20Engineering%20for%20Beginners)%20(Dennis%20Yurichev).pdf)
     📂 General Porgramming
         📄 [ProgrammingGroundUp-1-0-booksize.pdf](Programming_languages/General%20Porgramming/ProgrammingGroundUp-1-0-booksize.pdf)
     📂 C
         📄 [Effective C An Introduction to Professional C Programming (Robert C. Seacord).pdf](Programming_languages/C/Effective%20C%20An%20Introduction%20to%20Professional%20C%20Programming%20(Robert%20C.%20Seacord).pdf)
-        📄 [The C Programming Language (2nd ed.) [ANSI C] (Brian W. Kernighan, Dennis M. Ritchie).pdf](Programming_languages/C/The%20C%20Programming%20Language%20(2nd%20ed.)%20[ANSI%20C]%20(Brian%20W.%20Kernighan%2C%20Dennis%20M.%20Ritchie).pdf)
+        📄 [The C Programming Language, 2nd Edition (Brian W. Kernighan, Dennis M. Ritchie).pdf](Programming_languages/C/The%20C%20Programming%20Language%2C%202nd%20Edition%20(Brian%20W.%20Kernighan%2C%20Dennis%20M.%20Ritchie).pdf)
     📂 Go
 
 📂 Networking
