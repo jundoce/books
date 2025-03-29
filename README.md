@@ -5,8 +5,10 @@
     - 📄 [Linear Algebra for Everyone (Gilbert Strang).pdf](Math/Linear%20Algebra/Linear%20Algebra%20for%20Everyone%20(Gilbert%20Strang).pdf)
     - 📄 [Differential Equations and Linear Algebra (Gilbert Strang).pdf](Math/Linear%20Algebra/Differential%20Equations%20and%20Linear%20Algebra%20(Gilbert%20Strang).pdf)
   - 📂 _Statistics_
+    - 📄 [Introduction to Probability and Statistics for Engineers and Scientists.pdf](Introduction%20to%20Probability%20and%20Statistics%20for%20Engineers%20and%20Scientists.pdf)
   - 📂 _Calculus_
-
+    - 📄 [Calculus (James Stewart).pdf](Calculus%20(James%20Stewart).pdf) 
+      
 #
 
 - 📂 __Security__
