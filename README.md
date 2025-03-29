@@ -34,8 +34,8 @@
   - 📂 _General Programming_
     - 📄 [Programming From The Ground Up.pdf](Programming%20Languages/General%20Programming/Programming%20From%20The%20Ground%20Up.pdf)
   - 📂 _C_
-    - 📄 [Effective C An Introduction to Professional C Programming (Robert C. Seacord).pdf](Programming_languages/C/Effective%20C%20An%20Introduction%20to%20Professional%20C%20Programming%20(Robert%20C.%20Seacord).pdf)
-    - 📄 [The C Programming Language, 2nd Edition (Brian W. Kernighan, Dennis M. Ritchie).pdf](Programming_languages/C/The%20C%20Programming%20Language%2C%202nd%20Edition%20(Brian%20W.%20Kernighan%2C%20Dennis%20M.%20Ritchie).pdf)
+    - 📄 [Effective C An Introduction to Professional C Programming (Robert C. Seacord).pdf](Programming%20Languages/C/Effective%20C%20An%20Introduction%20to%20Professional%20C%20Programming%20(Robert%20C.%20Seacord).pdf)
+    - 📄 [The C Programming Language, 2nd Edition (Brian W. Kernighan, Dennis M. Ritchie).pdf](Programming%20Languages/C/The%20C%20Programming%20Language%2C%202nd%20Edition%20(Brian%20W.%20Kernighan%2C%20Dennis%20M.%20Ritchie).pdf)
   - 📂 _Go_
 
 #
